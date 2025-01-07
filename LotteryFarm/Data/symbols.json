@@ -2,187 +2,183 @@
   "Symbols": [
     {
       "Number": 1,
-      "Weight": 158
+      "Weight": 191
     },
     {
       "Number": 2,
-      "Weight": 146
+      "Weight": 179
     },
     {
       "Number": 3,
-      "Weight": 156
+      "Weight": 187
     },
     {
       "Number": 4,
-      "Weight": 152
+      "Weight": 186
     },
     {
       "Number": 5,
-      "Weight": 144
+      "Weight": 169
     },
     {
       "Number": 6,
-      "Weight": 153
+      "Weight": 187
     },
     {
       "Number": 7,
-      "Weight": 157
+      "Weight": 185
     },
     {
       "Number": 8,
-      "Weight": 144
+      "Weight": 170
     },
     {
       "Number": 9,
-      "Weight": 121
+      "Weight": 148
     },
     {
       "Number": 10,
-      "Weight": 153
+      "Weight": 181
     },
-
     {
       "Number": 11,
-      "Weight": 158
+      "Weight": 182
     },
     {
       "Number": 12,
-      "Weight": 168
+      "Weight": 195
     },
     {
       "Number": 13,
-      "Weight": 165
+      "Weight": 193
     },
     {
       "Number": 14,
-      "Weight": 165
+      "Weight": 186
     },
     {
       "Number": 15,
-      "Weight": 153
+      "Weight": 181
     },
     {
       "Number": 16,
-      "Weight": 153
+      "Weight": 181
     },
     {
       "Number": 17,
-      "Weight": 161
+      "Weight": 191
     },
     {
       "Number": 18,
-      "Weight": 165
+      "Weight": 185
     },
     {
       "Number": 19,
-      "Weight": 158
+      "Weight": 179
     },
     {
       "Number": 20,
-      "Weight": 159
+      "Weight": 186
     },
-
     {
       "Number": 21,
-      "Weight": 157
+      "Weight": 180
     },
     {
       "Number": 22,
-      "Weight": 135
+      "Weight": 153
     },
     {
       "Number": 23,
-      "Weight": 136
+      "Weight": 156
     },
     {
       "Number": 24,
-      "Weight": 153
+      "Weight": 183
     },
     {
       "Number": 25,
-      "Weight": 140
+      "Weight": 159
     },
     {
       "Number": 26,
-      "Weight": 155
+      "Weight": 186
     },
     {
       "Number": 27,
-      "Weight": 162
+      "Weight": 192
     },
     {
       "Number": 28,
-      "Weight": 142
-    },
-    {
-      "Number": 29,
-      "Weight": 143
-    },
-    {
-      "Number": 30,
-      "Weight": 146
-    },
-
-    {
-      "Number": 31,
-      "Weight": 155
-    },
-    {
-      "Number": 32,
-      "Weight": 133
-    },
-    {
-      "Number": 33,
       "Weight": 165
     },
     {
+      "Number": 29,
+      "Weight": 159
+    },
+    {
+      "Number": 30,
+      "Weight": 178
+    },
+    {
+      "Number": 31,
+      "Weight": 183
+    },
+    {
+      "Number": 32,
+      "Weight": 169
+    },
+    {
+      "Number": 33,
+      "Weight": 195
+    },
+    {
       "Number": 34,
-      "Weight": 177
+      "Weight": 200
     },
     {
       "Number": 35,
-      "Weight": 150
+      "Weight": 182
     },
     {
       "Number": 36,
-      "Weight": 152
+      "Weight": 178
     },
     {
       "Number": 37,
-      "Weight": 160
+      "Weight": 184
     },
     {
       "Number": 38,
-      "Weight": 155
+      "Weight": 184
     },
     {
       "Number": 39,
-      "Weight": 153
+      "Weight": 178
     },
     {
       "Number": 40,
-      "Weight": 163
+      "Weight": 185
     },
-
     {
       "Number": 41,
-      "Weight": 140
+      "Weight": 157
     },
     {
       "Number": 42,
-      "Weight": 145
+      "Weight": 168
     },
     {
       "Number": 43,
-      "Weight": 158
+      "Weight": 193
     },
     {
       "Number": 44,
-      "Weight": 154
+      "Weight": 179
     },
     {
       "Number": 45,
-      "Weight": 164
+      "Weight": 183
     }
   ]
 }
